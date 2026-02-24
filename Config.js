@@ -1,0 +1,29 @@
+{
+  "packname": "My Sticker Pack",
+  "author": "My Bot",
+  "botName": "Tanvir Bot",
+  "botOwner": "Mohammad Tanvir",
+  "ownerNumber": "8801615298449",
+  "botNumber": "Your Bot Number",
+  "autoUpdate": true,
+  "timeZone": "Asia/Dhaka",
+  "botUid": "",
+  "PREFIX": "/",
+  "admin": [
+    "your main number",
+    "your grp id",
+    "your grp id"
+  ],
+  "helpPic": "https://i.postimg.cc/pV7xByGv/IMG-20250106-WA0007.png",
+  "welPic": "https://i.postimg.cc/3JQF0qWf/received-383729254132460.jpg",
+  "PORT": "3000",
+  "delay": 100,
+  "msg": {
+    "modAdmin": false,
+    "ban": false
+  },
+  "imgurKey": "1e87dfc28df0bac",
+  "giphyApiKey": "qnl7ssQChTdPjsKta2Ax2LMaGXz303tq",
+  "commandMode": "public",
+  "description": "This is a bot for managing group commands and automating tasks."
+    }
